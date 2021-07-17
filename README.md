@@ -25,7 +25,7 @@ Thin smears; 229 images in total, i.e. 122 *Plasmodium falciparum* images, 37 *P
 
 ## *Plasmodium vivax*
 
-- [Download data](https://data.broadinstitute.org/bbbc/BBBC041/malaria.zip) | [website](https://data.broadinstitute.org/bbbc/BBBC041/) | [git repository](https://github.com/sivaramakrishnan-rajaraman/Deep-Neural-Ensembles-toward-Malaria-Parasite-Detection-in-Thin-Blood-Smear-Images)<br>**Data (thin smear):** 1364 images (~80,000 cells)<br>Hung J, Goodman A, Lopes S, Rangel G, Ravel D, Costa F, Duraisingh M, Marti M, Carpenter A. [**Applying Faster R-CNN for Object Detection on Malaria Images.**](https://arxiv.org/abs/1804.09548), arxiv, 2018.<br> The authors want you to cite this other [paper](https://www.nature.com/articles/nmeth.2083)
+- [Download data](https://data.broadinstitute.org/bbbc/BBBC041/malaria.zip) | [website](https://data.broadinstitute.org/bbbc/BBBC041/) <br>**Data (thin smear):** 1364 images (~80,000 cells)<br>Hung J, Goodman A, Lopes S, Rangel G, Ravel D, Costa F, Duraisingh M, Marti M, Carpenter A. [**Applying Faster R-CNN for Object Detection on Malaria Images.**](https://arxiv.org/abs/1804.09548), arxiv, 2018.<br> The authors want you to cite this other [paper](https://www.nature.com/articles/nmeth.2083)
 
 \* ftp://lhcftp. nlm.nih.gov/Open-Access-Datasets/Malaria/NIH-NLM-ThinBloodSmearsPf/ <br>
 ** ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/Thick_Smears_150
