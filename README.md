@@ -20,9 +20,15 @@ Therefore, each image with the same part number refers to the same patient. <br>
 
  - [Download data *](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html) <br>**Data (thick smear):**  1819 images from 150 patients who are infected with parasites. <br> Yang, F., Poostchi, M., Yu, H., Zhou, Z., Silamut, K., Yu, J., Maude, R.J., Jaeger, S. and Antani, S. [**Deep Learning for Smartphone-Based Malaria Parasite Detection in Thick Blood Smears**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8846750), in IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 5, pp. 1427-1438, May 2020, doi: 10.1109/JBHI.2019.2939121.
 
+ -  - [Download data *](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/index.html) <br>**Data (thick smear):** 190 patients of the two participating sites in Sudan. <br> Yu, Hang, et al. [**Patient-level performance evaluation of a smartphone-based malaria diagnostic application**](https://link.springer.com/article/10.1186/s12936-023-04446-0) Malaria Journal 22.1 (2023): 33. 
+
 - [Download data](http://air.ug/downloads/plasmodium-phonecamera.zip) | [website](http://air.ug/microscopy/)<br>**Data (thick smear):** 1182 images of thick smears, parasite bounding boxes given in xml format <br>J.A. Quinn, R. Nakasi, P.K. Mugagga, P. Byanyima, W. Lubega, A. Andama. [**Deep Convolutional Neural Networks for Microscopy-Based Point of Care Diagnostics.**](http://proceedings.mlr.press/v56/Quinn16.pdf) Proceedings of the International Conference on Machine Learning for Health Care, Journal of Machine Learning Research W&C track, Volume 56, 2016.
 
 - [Download data](https://drive.google.com/open?id=1EMJ7dg0TBs34sDWcj7Tj1wozXJC0wtbc)<br>**Data (thin smear):** 655 images of thin smears with bounding boxes around parasites<br>Tek FB, Dempster AG, Kale I, [**Parasite detection and identification for automated thin blood film malaria diagnosis.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719653/) Computer Vision and Image Understanding 2010, 114:21-32.
+
+- [Download data](https://rdr.ucl.ac.uk/articles/dataset/Giemsa_Stained_Thick_Blood_Films_for_Clinical_Microscopy_Malaria_Diagnosis_with_Deep_Neural_Networks_Dataset_/12173568) | [github]([http://air.ug/microscopy/](https://github.com/UCL/FASt-MAL-MOFF)<br>**Data (thick smear):** Rhick blood films stained with Giemsa from 299 patients collected at the University College Hospital (UCH) in the city of Ibadan, Nigeria <br> Manescu, Petru, et al. [**A weakly supervised deep learning approach for detecting malaria and sickle cells in blood films.**](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_22) Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part V 23. Springer International Publishing, 2020.
+
+- 
 
 ## *Plasmodium vivax*
 
